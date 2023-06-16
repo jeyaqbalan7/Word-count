@@ -15,8 +15,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```
-#Developed By: Jeyabalan
-#Register No:212222240040
+#Developed By: AdhithyaRam D
+#Register No: 212222230008
 n=input('Enter File name: ')
 wordslen=0
 with open(n,'r') as f:
